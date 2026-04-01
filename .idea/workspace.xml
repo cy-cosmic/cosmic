@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26013d5e-e799-416f-acf9-2430dd9c1486" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cosmic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/images/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/images/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="26013d5e-e799-416f-acf9-2430dd9c1486" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775000973549</updated>
       <workItem from="1775000974261" duration="7149000" />
-      <workItem from="1775060666777" duration="18406000" />
+      <workItem from="1775060666777" duration="18522000" />
     </task>
     <servers />
   </component>
