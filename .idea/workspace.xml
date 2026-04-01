@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26013d5e-e799-416f-acf9-2430dd9c1486" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmic/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmic/settings.py" afterDir="false" />
     </list>
@@ -105,7 +106,8 @@
       <updated>1775000973549</updated>
       <workItem from="1775000974261" duration="7149000" />
       <workItem from="1775060666777" duration="18857000" />
-      <workItem from="1775083459886" duration="585000" />
+      <workItem from="1775083459886" duration="1188000" />
+      <workItem from="1775084763877" duration="718000" />
     </task>
     <servers />
   </component>
